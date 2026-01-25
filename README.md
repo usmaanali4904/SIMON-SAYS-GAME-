@@ -6,7 +6,8 @@ Test your memory and reflexes by following the color sequence in this interactiv
 ---
 
 ## 🚀 Live Demo
-Play it live here: [Simon Says Game](https://usmaanali4904.github.io/simon-says-game/)
+Play it live here: [Simon Says Game](https://usmaanali4904.github.io/SIMON-SAYS-GAME-/)
+
 
 ---
 
